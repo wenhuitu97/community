@@ -16,7 +16,7 @@
 ```sql
 create table USER
 (
-    ID           INTEGER default (NEXT VALUE FOR PUBLIC.SYSTEM_SEQUENCE_A60BBC28_2410_40F7_84BA_755341F40D14) auto_increment,
+    ID           INTEGER auto_increment,
     ACCOUNT_ID   VARCHAR(100),
     NAME         VARCHAR(50),
     TOKEN        CHAR(36),
