@@ -37,7 +37,7 @@ public class PublishController {
         Model model) {
 
         model.addAttribute("title", title);
-        model.addAttribute("descrption", description);
+        model.addAttribute("description", description);
         model.addAttribute("tag", tag);
 
         if(title == null || title == "") {
