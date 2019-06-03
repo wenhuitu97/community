@@ -8,7 +8,7 @@
 - [GitHub OAuth](https://developer.github.com/apps/building-oauth-apps/creating-an-oauth-app/)
 - [Spring](https://docs.spring.io/spring-boot/docs/2.0.0.RC1/reference/htmlsingle/#boot-embeded-database-support)
 - [Thymeleaf](https://www.thymeleaf.org/doc/tutorials/3.0/usingthymeleaf.html)
-
+- [SpringMVC](https://docs.spring.io/spring/docs/5.0.3.RELEASE/spring-framework-reference/web.html#mvc-config)
 ## 工具
 - [Git](https://git-scm.com/download)
 - [VP](https://www.visual-paradigm.com)
